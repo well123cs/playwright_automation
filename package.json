@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@playwright/test": "^1.42.1",
+    "dotenv": "^16.4.5",
+    "playwright": "^1.42.1"
+  },
+  "scripts": {
+    "start": "node TransferFunds.js"
+  }
+}
